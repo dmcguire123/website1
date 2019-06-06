@@ -1,0 +1,6 @@
+{
+  "name": "Dmcguire Website",
+  "description": "David McGuire's website",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
